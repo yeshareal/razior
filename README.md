@@ -1,1 +1,1 @@
-# razior
+# uptime buat bot
